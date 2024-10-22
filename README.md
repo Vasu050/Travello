@@ -1,6 +1,6 @@
 # Travello
 
-A complete webapp where users can register then login after that they logout as well with complete user authentication <br>
+A complete webapp where users can register then login after that they can logout as well with complete user authentication <br>
 Home Page <br>
 Register page <br>
 Login Page <br>
