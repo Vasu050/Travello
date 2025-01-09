@@ -51,3 +51,4 @@ def login(request):
 def logout(request):
     auth.logout(request)
     return redirect('/')
+    #hello8*9589852
